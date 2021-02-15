@@ -38,7 +38,7 @@ These areas may be over-saturated and if not, will likely reach over saturation 
 # Stakeholders
 [stakeholders]: #stakeholders
 
-All hotspot owners or potential owners will be effected by this HIP as it affects the method by which earnings are calculated for all proof-of-coverage based rewards.
+All hotspot owners or potential owners will be affected by this HIP as it affects the method by which earnings are calculated for all proof-of-coverage based rewards.
 Owners or Patreons who have setup hotspots to optimize for the existing PoC method and reward structure may be especially affected.
 
 Additionally the Helium development team will have considerable work implementing the proposed algorithms on the blockchain.
